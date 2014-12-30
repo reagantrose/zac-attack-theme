@@ -1,0 +1,56 @@
+/* This css file serves as a template for styling your kwicks.  Feel free to modify, but please make note of the comments - some of them are important. */
+.kwicks {
+	/* recommended styles for kwicks ul container */
+	list-style: none;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.kwicks li{
+	/* these are required, but the values are up to you (must be pixel) */
+	width: 196px;
+	height: 392px;
+	/*do not change these */
+	display: block;
+	overflow: hidden;
+	padding: 0;  /* if you need padding, do so with an inner div (or implement your own box-model hack) */
+}
+.kwicks li img{
+	max-width:none;
+	height:100%;
+}
+.kwicks.horizontal li {
+	/* This is optional and will be disregarded by the script.  However, it should be provided for non-JS enabled browsers. */
+	margin-right: 0px; /*5px*/ /*Set to same as spacing option. */	
+	float: left;
+}
+.st-caption{
+	position:absolute;
+	background:rgba(0, 0, 0, 0.7);
+	width:100%;
+	bottom:0;
+	top:75%;
+	display:block;
+	color:#fff;
+	padding:10px;
+	overflow:hidden
+}
+.kwicks li.active .st-caption{
+	width:100%;
+}
+.st-caption .slide-title{
+	font-size:20px;
+	font-weight:normal;
+	margin:5px 0px;
+	padding:0;
+}
+.st-caption p{
+	font-size:12px;
+	margin:0;
+	padding:0;
+	display:none;
+}
+.kwicks li.active .st-caption p{
+	display:block;
+}

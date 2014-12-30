@@ -1,0 +1,29 @@
+/*main-nav*/
+#nav li.active a,#nav li.current_page_item a,#nav li.current-menu-ancestor a {
+	background-position:left -580px;
+}
+#nav li.active a span,#nav li.current_page_item a span,#nav li.current-menu-ancestor a span {
+	background-position:right -580px;
+	color:#fff;
+	-webkit-text-shadow:0px 1px 0px #8a3a80;
+	-moz-text-shadow:0px 1px 0px #8a3a80;
+	text-shadow: 0px 1px 0px #8a3a80;
+}
+/*border-color*/
+.social-wrapper, #nav ul, .st-bg:hover{
+	border-color:#AD57A2;
+}
+/*background color*/
+.flex-control-nav li a.active,
+input.button, button, input[type="submit"], input[type="reset"], input[type="button"],
+#footer #search input[type="button"], #footer #search input.ibtn, #footer input#searchsubmit, #footer #search input[type="submit"], .flex-direction-nav li .prev,
+.flex-direction-nav li .next, .nivo-controlNav a.active, .thumb, .columns.thumb{
+	background-color:#AD57A2;
+}
+input.button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover{
+	background-color:#ce68c1;
+}
+/*links color*/
+a:hover, #nav li ul li a:hover, #nav li ul li:hover>a, #nav li.current-menu-ancestor ul a:hover span, #nav li.current_page_item ul a:hover span, .st-tagline span{
+	color:#AD57A2;
+}

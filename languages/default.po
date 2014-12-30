@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Goode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-03 10:06+0700\n"
+"PO-Revision-Date: 2012-04-03 10:06+0700\n"
+"Last-Translator: designiter <slicetheme.com@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:6
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:29
+#: ../comments.php:40
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:30
+#: ../comments.php:41
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: ../footer.php:35
+msgid "Scroll to Top"
+msgstr ""
+
+#: ../index.php:14
+#: ../taxonomy-portfolio-category.php:46
+#: ../template-blog.php:89
+#: ../template-portfolio.php:136
+msgid "Older Entries"
+msgstr ""
+
+#: ../index.php:15
+#: ../taxonomy-portfolio-category.php:47
+#: ../template-blog.php:90
+#: ../template-portfolio.php:137
+msgid "Newer Entries"
+msgstr ""
+
+#: ../template-contact.php:22
+msgid "Please wait.."
+msgstr ""
+
+#: ../template-contact.php:28
+msgid "Name"
+msgstr ""
+
+#: ../template-contact.php:32
+msgid "Email"
+msgstr ""
+
+#: ../template-contact.php:36
+msgid "Subject"
+msgstr ""
+
+#: ../template-contact.php:40
+msgid "Message"
+msgstr ""
+
+#: ../template-contact.php:44
+msgid "Send"
+msgstr ""
+
+#: ../template-sitemap.php:37
+msgid "Available Pages"
+msgstr ""
+
+#: ../template-sitemap.php:48
+msgid "Archives by Blog Category"
+msgstr ""
+
+#: ../template-sitemap.php:55
+msgid "Archives by Portfolio Category"
+msgstr ""
+
+#: ../template-sitemap.php:62
+msgid "Archives by Month"
+msgstr ""
+
+#: ../library/st_functions.php:109
+msgid "Archive for category:"
+msgstr ""
+
+#: ../library/st_functions.php:111
+#: ../library/st_functions.php:208
+msgid "Post Tagged with:"
+msgstr ""
+
+#: ../library/st_functions.php:113
+#: ../library/st_functions.php:205
+msgid "Search Results for:"
+msgstr ""
+
+#: ../library/st_functions.php:115
+#: ../library/st_functions.php:117
+#: ../library/st_functions.php:119
+msgid "Archive for"
+msgstr ""
+
+#: ../library/st_functions.php:121
+#: ../library/st_functions.php:215
+msgid "Author Archive"
+msgstr ""
+
+#: ../library/st_functions.php:123
+msgid "Archives"
+msgstr ""
+
+#: ../library/st_functions.php:125
+#: ../library/st_functions.php:218
+msgid "Page Not Found"
+msgstr ""
+
+#: ../library/st_functions.php:224
+msgid "Page"
+msgstr ""
+
+#: ../library/st_functions.php:242
+msgid "says:"
+msgstr ""
+
+#: ../library/st_functions.php:244
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../library/st_functions.php:244
+msgid "(Edit)"
+msgstr ""
+
+#: ../library/st_registers.php:18
+msgid " Primary Menu"
+msgstr ""
+
+#: ../library/st_registers.php:82
+msgid "All Portfolio"
+msgstr ""
+
+#: ../library/st_registers.php:83
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../library/st_registers.php:84
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../library/st_registers.php:85
+msgid "New Portfolio"
+msgstr ""
+
+#: ../library/st_registers.php:86
+msgid "View Portfolio"
+msgstr ""
+
+#: ../library/st_registers.php:87
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../library/st_registers.php:88
+msgid "No Portfolio Found"
+msgstr ""
+
+#: ../library/st_registers.php:89
+msgid "No Portfolio Found in Trash"
+msgstr ""
+
+#: ../library/st_registers.php:123
+msgid "All Pricing Table"
+msgstr ""
+
+#: ../library/st_registers.php:124
+msgid "Add New Pricing Table"
+msgstr ""
+
+#: ../library/st_registers.php:125
+msgid "Edit Pricing Table"
+msgstr ""
+
+#: ../library/st_registers.php:126
+msgid "New Pricing Table"
+msgstr ""
+
+#: ../library/st_registers.php:127
+msgid "View Pricing Table"
+msgstr ""
+
+#: ../library/st_registers.php:128
+msgid "Search Pricing Table"
+msgstr ""
+
+#: ../library/st_registers.php:129
+msgid "No Pricing Table Found"
+msgstr ""
+
+#: ../library/st_registers.php:130
+msgid "No Pricing Table Found in Trash"
+msgstr ""
+
+#: ../library/st_shortcodes.php:540
+msgid "Month"
+msgstr ""
+
+#: ../library/st_shortcodes.php:600
+msgid "Sign Up Now"
+msgstr ""
+
+#: ../library/st_widgets.php:19
+msgid "Latest Posts"
+msgstr ""
+
+#: ../library/st_widgets.php:147
+msgid "Latest Portfolio"
+msgstr ""
+
+#: ../library/st_widgets.php:321
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../library/st_widgets.php:401
+msgid "Latest Flickr Photos"
+msgstr ""
+
+#: ../library/st_widgets.php:496
+msgid "Contact Info"
+msgstr ""
+
+#: ../library/st_widgets.php:563
+msgid "Quick Contact"
+msgstr ""
+
+#: ../library/st_widgets.php:635
+msgid "Join Newsletter"
+msgstr ""
+
+#: ../library/st_widgets.php:655
+msgid "Subscribe"
+msgstr ""
+
+#: ../library/st_widgets.php:714
+msgid "Popular"
+msgstr ""
+
+#: ../library/st_widgets.php:715
+msgid "Recent"
+msgstr ""
+
+#: ../library/st_widgets.php:716
+#: ../library/includes/loop-single.php:37
+msgid "Tags"
+msgstr ""
+
+#: ../library/includes/loop-blog.php:34
+#: ../library/includes/loop-blog.php:75
+#: ../library/includes/loop-blog.php:98
+#: ../library/includes/loop-index.php:26
+#: ../library/includes/loop-single.php:26
+msgid "By"
+msgstr ""
+
+#: ../library/includes/loop-blog.php:35
+#: ../library/includes/loop-blog.php:76
+#: ../library/includes/loop-blog.php:99
+#: ../library/includes/loop-index.php:27
+#: ../library/includes/loop-single.php:27
+msgid "In"
+msgstr ""
+
+#: ../library/includes/loop-blog.php:36
+#: ../library/includes/loop-blog.php:77
+#: ../library/includes/loop-blog.php:100
+#: ../library/includes/loop-index.php:28
+#: ../library/includes/loop-single.php:28
+msgid "No Comment"
+msgstr ""
+
+#: ../library/includes/loop-blog.php:36
+#: ../library/includes/loop-blog.php:77
+#: ../library/includes/loop-blog.php:100
+#: ../library/includes/loop-index.php:28
+#: ../library/includes/loop-single.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: ../library/includes/loop-blog.php:36
+#: ../library/includes/loop-blog.php:77
+#: ../library/includes/loop-blog.php:100
+#: ../library/includes/loop-index.php:28
+#: ../library/includes/loop-single.php:28
+msgid "% Comments"
+msgstr ""
+
+#: ../library/includes/loop-blog.php:37
+#: ../library/includes/loop-blog.php:78
+#: ../library/includes/loop-blog.php:101
+#: ../library/includes/loop-index.php:29
+#: ../library/includes/loop-page.php:17
+#: ../library/includes/loop-single-portfolio.php:83
+#: ../library/includes/loop-single.php:29
+msgid "Edit"
+msgstr ""
+
+#: ../library/includes/loop-blog.php:42
+#: ../library/includes/loop-blog.php:83
+#: ../library/includes/loop-blog.php:123
+#: ../library/includes/loop-index.php:34
+#: ../library/includes/loop-portfolio.php:125
+msgid "Read More"
+msgstr ""
+
+#: ../library/includes/loop-page.php:15
+#: ../library/includes/loop-single.php:36
+msgid "Pages"
+msgstr ""
+
+#: ../library/includes/loop-single-portfolio.php:74
+msgid "Visit Website"
+msgstr ""
+
+#: ../scripts/contact.php:27
+#: ../scripts/newsletter.php:25
+msgid "Please enter your name."
+msgstr ""
+
+#: ../scripts/contact.php:30
+#: ../scripts/newsletter.php:28
+msgid "Please enter your email."
+msgstr ""
+
+#: ../scripts/contact.php:33
+#: ../scripts/newsletter.php:31
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ../scripts/contact.php:36
+msgid "Please enter message."
+msgstr ""
+
+#: ../scripts/contact.php:73
+msgid "Contact Email From"
+msgstr ""
+
+#: ../scripts/newsletter.php:64
+msgid "Newsletter Subscription From"
+msgstr ""
+
